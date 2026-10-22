@@ -2,7 +2,7 @@
   "name": "biblioteca-normativa-quadrart",
   "displayName": "Biblioteca normativă Quadrart",
   "version": "0.1.0",
-  "description": "Legislația României și actele UE aplicabile, în forma în vigoare: Claude caută în Biblioteca normativă Quadrart, citește articolul, citează doar ce a citit și își verifică răspunsul înainte să-l dea.",
+  "description": "Legislația României și actele UE aplicabile, în forma în vigoare: Claude caută în Biblioteca normativă Quadrart, citește articolul, citează doar ce a citit și își verifică răspunsul înainte să-l dea. Accesul se face cu cont Quadrart: office@quadrart.ro.",
   "author": {
     "name": "Quadrart Wave S.R.L.",
     "url": "https://punte.quadrart.ro"

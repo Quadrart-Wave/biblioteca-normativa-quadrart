@@ -15,6 +15,8 @@ Pluginul aduce în Claude legislația României și actele UE aplicabile, în fo
 
 ## Cum îl legi
 
+Accesul se face cu cont Quadrart: office@quadrart.ro.
+
 1. În Claude: **Customize › Plugins › Add › Upload plugin** și alegi fișierul `biblioteca-normativa-quadrart.zip`, fără să-l dezarhivezi.
 2. Deschizi pluginul, fila **Connectors**, și apeși **Connect** la „punte”.
 3. Intri cu utilizatorul și parola primite și accepți accesul pentru Claude; la prima intrare ți se pot cere și termenii de folosire. Biblioteca apare **Connected**.
