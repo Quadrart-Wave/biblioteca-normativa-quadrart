@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "punte": {
+    "biblioteca-normativa": {
       "type": "http",
       "url": "https://punte.quadrart.ro/mcp"
     }

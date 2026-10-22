@@ -4,7 +4,7 @@ Pluginul aduce în Claude legislația României și actele UE aplicabile, în fo
 
 ## Ce conține
 
-- conectorul bibliotecii, `punte` (`https://punte.quadrart.ro/mcp`);
+- conectorul bibliotecii, `biblioteca-normativa` (`https://punte.quadrart.ro/mcp`);
 - skill-ul `legislatia-romaniei`, care îi spune lui Claude ordinea muncii: caută (`normative_cauta`), citește (`normative_citeste_articol`), citează, verifică (`normative_verifica_text`).
 
 ## Ce îți trebuie
@@ -18,9 +18,9 @@ Pluginul aduce în Claude legislația României și actele UE aplicabile, în fo
 Accesul se face cu cont Quadrart: office@quadrart.ro.
 
 1. În Claude: **Customize › Plugins › Add › Upload plugin** și alegi fișierul `biblioteca-normativa-quadrart.zip`, fără să-l dezarhivezi.
-2. Deschizi pluginul, fila **Connectors**, și apeși **Connect** la „punte”.
+2. Deschizi pluginul, fila **Connectors**, și apeși **Connect** la „biblioteca-normativa”.
 3. Intri cu utilizatorul și parola primite și accepți accesul pentru Claude; la prima intrare ți se pot cere și termenii de folosire. Biblioteca apare **Connected**.
-4. **Lași Claude să folosească biblioteca fără să te întrebe.** În aceeași filă **Connectors**, la „punte”, **Tool permissions › Always allow**. Altfel Claude îți cere aprobarea la fiecare căutare și citire.
+4. **Lași Claude să folosească biblioteca fără să te întrebe.** În aceeași filă **Connectors**, la „biblioteca-normativa”, **Tool permissions › Always allow**. Altfel Claude îți cere aprobarea la fiecare căutare și citire.
 
 Pe un cont Team sau Enterprise, administratorul (Owner) adaugă întâi conectorul pentru firmă; fiecare om face apoi pașii 2-4 cu contul lui.
 
@@ -51,6 +51,6 @@ Serverul ține un jurnal al acestor apeluri, legat de cont. Din textele verifica
 
 ## Versiunea
 
-0.1.0. Versiunile noi le trimite Quadrart, împreună cu felul în care se înlocuiesc.
+0.1.1. Versiunile noi le trimite Quadrart, împreună cu felul în care se înlocuiesc.
 
 Pluginul e proprietatea Quadrart și se folosește doar cu acordul Quadrart (vezi `LICENSE`).
