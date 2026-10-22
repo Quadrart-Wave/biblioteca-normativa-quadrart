@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "punte": {
+      "type": "http",
+      "url": "https://punte.quadrart.ro/mcp"
+    }
+  }
+}

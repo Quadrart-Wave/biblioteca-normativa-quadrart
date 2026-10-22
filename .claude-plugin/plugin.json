@@ -1,0 +1,14 @@
+{
+  "name": "biblioteca-normativa-quadrart",
+  "displayName": "Biblioteca normativă Quadrart",
+  "version": "0.1.0",
+  "description": "Legislația României și actele UE aplicabile, în forma în vigoare: Claude caută în Biblioteca normativă Quadrart, citește articolul, citează doar ce a citit și își verifică răspunsul înainte să-l dea.",
+  "author": {
+    "name": "Quadrart Wave S.R.L.",
+    "url": "https://punte.quadrart.ro"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/Quadrart-Wave/biblioteca-normativa-quadrart",
+  "privacyPolicyUrl": "https://punte.quadrart.ro/confidentialitate"
+}
